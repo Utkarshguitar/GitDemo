@@ -46,5 +46,6 @@ public class LoginTest extends Base {
 
 	public void teardown() {
 		driver.quit();
+		System.out.println("Driver quitted successfully");
 	}
 }
