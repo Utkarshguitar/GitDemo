@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-07T18:16:44 IST" name="Suite" finished-at="2020-08-07T18:18:45 IST" duration-ms="121490">
+    <groups>
+    </groups>
+    <test started-at="2020-08-07T18:16:44 IST" name="Test" finished-at="2020-08-07T18:18:45 IST" duration-ms="121490">
+      <class name="employeemanagement.OrangeHRM.AddEmployeeTest">
+        <test-method is-config="true" signature="intialise()[pri:0, instance:employeemanagement.OrangeHRM.AddEmployeeTest@5ef60048]" started-at="2020-08-07T18:16:44 IST" name="intialise" finished-at="2020-08-07T18:17:06 IST" duration-ms="22798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialise -->
+        <test-method signature="addNewEmployee()[pri:0, instance:employeemanagement.OrangeHRM.AddEmployeeTest@5ef60048]" started-at="2020-08-07T18:18:03 IST" name="addNewEmployee" finished-at="2020-08-07T18:18:24 IST" duration-ms="21887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployee -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:employeemanagement.OrangeHRM.AddEmployeeTest@5ef60048]" started-at="2020-08-07T18:18:40 IST" name="teardown" finished-at="2020-08-07T18:18:43 IST" duration-ms="2978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- employeemanagement.OrangeHRM.AddEmployeeTest -->
+      <class name="employeemanagement.OrangeHRM.SearchEmployeeTest">
+        <test-method is-config="true" signature="intialise()[pri:0, instance:employeemanagement.OrangeHRM.SearchEmployeeTest@1d548a08]" started-at="2020-08-07T18:17:26 IST" name="intialise" finished-at="2020-08-07T18:18:00 IST" duration-ms="33902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialise -->
+        <test-method signature="searchemployee()[pri:0, instance:employeemanagement.OrangeHRM.SearchEmployeeTest@1d548a08]" started-at="2020-08-07T18:18:24 IST" name="searchemployee" finished-at="2020-08-07T18:18:40 IST" duration-ms="15479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchemployee -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:employeemanagement.OrangeHRM.SearchEmployeeTest@1d548a08]" started-at="2020-08-07T18:18:44 IST" name="teardown" finished-at="2020-08-07T18:18:45 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- employeemanagement.OrangeHRM.SearchEmployeeTest -->
+      <class name="employeemanagement.OrangeHRM.LoginTest">
+        <test-method is-config="true" signature="intialise()[pri:0, instance:employeemanagement.OrangeHRM.LoginTest@5af97850]" started-at="2020-08-07T18:17:06 IST" name="intialise" finished-at="2020-08-07T18:17:26 IST" duration-ms="19844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialise -->
+        <test-method signature="loginPage()[pri:0, instance:employeemanagement.OrangeHRM.LoginTest@5af97850]" started-at="2020-08-07T18:18:00 IST" name="loginPage" finished-at="2020-08-07T18:18:02 IST" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:employeemanagement.OrangeHRM.LoginTest@5af97850]" started-at="2020-08-07T18:18:43 IST" name="teardown" finished-at="2020-08-07T18:18:44 IST" duration-ms="1188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- employeemanagement.OrangeHRM.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
